@@ -84,6 +84,7 @@
 - [TorBirdy](https://www.torproject.org/getinvolved/volunteer.html.en#project-torbirdy) - Torbutton for Thunderbird and related Mozilla mail clients.
 - [TorCheck](https://www.torproject.org/getinvolved/volunteer.html.en#project-torcheck) - Site for determining if the visitor is using Tor or not.
 - [multitor](https://github.com/trimstray/multitor) - Shell scripts to automate creation of multiple Tor instances, load-balanced with HAProxy.
+- [TorEsp32](https://github.com/briand-hub/toresp32) - Tor client/proxy for ESP32 platform (also for Linux) written in C++17. Developed for educational purposes, leaves no network activity traces thanks to ESP32 and MAC randomization.
 
 # File sharing
 
